@@ -1,4 +1,4 @@
-# android-kotlin1
+# coroutines-android-studio
 
 Projet Kotlin développé suite à ce codelab "https://developer.android.com/codelabs/basic-android-kotlin-compose-coroutines-android-studio".
 
