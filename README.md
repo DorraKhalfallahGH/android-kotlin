@@ -9,4 +9,3 @@ Projet Kotlin développé suite à ce codelab "https://developer.android.com/cod
 - `settings.gradle.kts` : Déclaration du nom du projet et des modules
 - `gradlew`, `gradlew.bat` : Wrappers pour exécuter Gradle sans l’installer
 - `gradle/` : Scripts et config liés à Gradle
-- `.github/` : (Facultatif) Workflows ou metadata GitHub
